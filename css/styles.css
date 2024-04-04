@@ -178,13 +178,6 @@ img {
 }
 
 /*-----------Content (Strategy, Punctuality, Diligence, Technologies)-----------*/
-.content-spdt {
-
-}
-
-.advantages-title {
-    
-}
 
 .content-spdt-menu-list {
     display: flex;
@@ -266,7 +259,7 @@ img {
 }
 
 /*-----------Our Portfolio-----------*/
-.section-portfolio {}
+
 
 .portfolio-title {
     font-weight: 700;
@@ -293,7 +286,7 @@ img {
     padding: 32px 16px;
 }
 
-.portfolio-item {}
+
 
 .portfolio-image {
     background-color: #fff;
